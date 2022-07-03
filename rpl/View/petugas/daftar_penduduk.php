@@ -26,11 +26,6 @@
 
 
 <body>
-
-
-
-
-
 <div class="container"  >
 	<br>
   <!-- Content here -->
