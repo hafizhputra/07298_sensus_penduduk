@@ -27,13 +27,13 @@ class AuthController
             $_SESSION['role_user'] = 'A';
             $_SESSION['A'] = $data;
            
-              header("location: index.php?page=admin&aksi=view&pesan=berhasil login");
+              header("location: index.php?page=admin&aksi=view&pesan=berhasil_login");
 
           }else if($data['role_user'] =="P"){
             $_SESSION['username_user'] = $username;
             $_SESSION['role_user'] = 'P';
             $_SESSION['A'] = $data;
-            header("location: index.php?page=petugas&aksi=view&pesan=berhasil login");
+            header("location: index.php?page=petugas&aksi=view&pesan=berhasil_login");
         
 
           } else {
