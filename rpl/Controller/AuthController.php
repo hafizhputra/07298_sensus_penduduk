@@ -46,7 +46,7 @@ class AuthController
         public function logout()
         {
             session_destroy();
-            header("location: index.php?page=auth&aksi=view&pesan=berhasil logout!!");
+            header("location: index.php?page=auth&aksi=view&pesan=berhasil_logout!!");
         }
 
   }

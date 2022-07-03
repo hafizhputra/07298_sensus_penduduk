@@ -13,6 +13,9 @@
 
 <!-- <link rel="stylesheet" href="Assets/css/loginuser.css"> -->
 
+<!---: icon bootstrap 5 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+
 <!---: SWEETALERT -->
 <script
   src="https://code.jquery.com/jquery-3.5.1.min.js"
@@ -74,6 +77,12 @@
       <span class="navbar-toggler-icon"></span>
     </button>
    
+    <a href="index.php?page=auth&aksi=logout" class='sidebar-link' style="text-decoration: none;color:aliceblue">
+    <i class="bi bi-box-arrow-right"></i>
+   <span>logout</span>
+     </a>
+
+
   </div>
 </nav>
 

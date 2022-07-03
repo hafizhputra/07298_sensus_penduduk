@@ -30,7 +30,10 @@
 
 <body>
 
-<div class="container"  style="margin-top:50px;margin-left:50px;margin-right:0px;">
+<div class="container"  style="margin-top:30px;margin-left:50px;margin-right:0px;">
+  <!-- Content here -->
+  <h2>DAFTAR DATA PENDUDUK</h2>
+	<br/>
 <?php 
 	if(isset($_GET['pesan'])){
 		if($_GET['pesan']=="berhasil_tambah"){

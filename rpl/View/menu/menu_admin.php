@@ -11,6 +11,8 @@
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
+<!---: icon bootstrap 5 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
 
 <!---: SWEETALERT -->
 <script
@@ -64,13 +66,27 @@
   
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
+
     <a class="navbar-brand" href="#">SENSUS PENDUDUK</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-   
-  </div>
+
+
+    <a href="index.php?page=auth&aksi=logout" class='sidebar-link' style="text-decoration: none;color:aliceblue">
+    <i class="bi bi-box-arrow-right"></i>
+   <span>logout</span>
+     </a>
+  
+
+    </div>
+
 </nav>
+
+           
+
+
+
 <script src="libs/cute-alert.js"></script>
 
 
