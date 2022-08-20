@@ -51,21 +51,21 @@
                                                 <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">No KK</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['no_kk'] ?>" name="nokk">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input No KK" value="<?= $data['no_kk'] ?>" name="nokk">
                                                 </div>
                                             </div>
 
                                                 <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Nik</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['nik'] ?>" name="nik">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Nik" value="<?= $data['nik'] ?>" name="nik">
                                                 </div>
                                             </div>
 
                                                 <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Nama</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['nama'] ?>" name="nama">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Nama" value="<?= $data['nama'] ?>" name="nama">
                                                 </div>
                                             </div>
 
@@ -73,7 +73,7 @@
                                                 <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Tempat/Tanggal Lahir</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['tempat_tgllahir'] ?>" name="tgllahir">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Tempat/Tanggal Lahir" value="<?= $data['tempat_tgllahir'] ?>" name="tgllahir">
                                                 </div>
                                             </div>
 
@@ -81,14 +81,14 @@
                                                  <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Jenis Kelamin</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['jenis_kelamin'] ?>" name="jeniskelamin">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Jenis Kelamin" value="<?= $data['jenis_kelamin'] ?>" name="jeniskelamin">
                                                 </div>
                                             </div>
 
                                                  <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Alamat</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['alamat'] ?>" name="alamat">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Alamat" value="<?= $data['alamat'] ?>" name="alamat">
                                                 </div>
                                             </div>
 
@@ -96,7 +96,7 @@
                                                  <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">RT/RW</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['rt_rw'] ?>" name="rt">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input RT/RW" value="<?= $data['rt_rw'] ?>" name="rt">
                                                 </div>
                                             </div>
 
@@ -104,7 +104,7 @@
                                                   <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Kelurahan/Kecamatan</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['kelurahan_kecamatan'] ?>" name="kelurahan">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Kelurahan/Kecamatan" value="<?= $data['kelurahan_kecamatan'] ?>" name="kelurahan">
                                                 </div>
                                                 </div>
 
@@ -112,21 +112,21 @@
                                                    <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Kota</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['kota'] ?>" name="kota">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Kota" value="<?= $data['kota'] ?>" name="kota">
                                                 </div>
                                                 </div>
 
                                                      <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Provinsi</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['provinsi'] ?>" name="provinsi">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input provinsi" value="<?= $data['provinsi'] ?>" name="provinsi">
                                                 </div>
                                                 </div>
 
                                                      <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Status Keberadaan</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['status_keberadaan'] ?>" name="status">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Status Keberadaan" value="<?= $data['status_keberadaan'] ?>" name="status">
                                                 </div>
                                                 </div>
 
@@ -134,21 +134,21 @@
                                                       <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Pendidikan</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['pendidikan'] ?>" name="pendidikan">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Pendidikan" value="<?= $data['pendidikan'] ?>" name="pendidikan">
                                                 </div>
                                                 </div>
 
                                                         <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Agama</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['agama'] ?>" name="agama">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Agama" value="<?= $data['agama'] ?>" name="agama">
                                                 </div>
                                                 </div>
 
                                                          <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Kewarganegaraan</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong"value="<?= $data['kewarganegaraan'] ?>" name="kewarganegaraan">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Kewarganegaraan" value="<?= $data['kewarganegaraan'] ?>" name="kewarganegaraan">
                                                 </div>
                                                 </div>
 
@@ -156,7 +156,7 @@
                                                            <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Pekerjaan</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['pekerjaan'] ?>" name="pekerjaan">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Pekerjaan" value="<?= $data['pekerjaan'] ?>" name="pekerjaan">
                                                 </div>
                                                 </div>
 
@@ -164,21 +164,21 @@
                                                                <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Status Perkawinan</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['status_perkawinan'] ?>" name="perkawinan">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Status Perkawinan" value="<?= $data['status_perkawinan'] ?>" name="perkawinan">
                                                 </div>
                                                 </div>
 
                                                                <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Nama Ayah</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['nama_ayah'] ?>" name="ayah">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Nama Ayah" value="<?= $data['nama_ayah'] ?>" name="ayah">
                                                 </div>
                                                 </div>
 
                                                                 <div class="col-md-6 col-12">
                                                 <div class="form-group">
                                                     <label for="last-name-column">Nama ibu</label>
-                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Kosong" value="<?= $data['nama_ibu'] ?>" name="ibu">
+                                                    <input type="text" id="readonlyInput" readonly="readonly" id="last-name-column" class="form-control" placeholder="Input Nama ibu" value="<?= $data['nama_ibu'] ?>" name="ibu">
                                                 </div>
                                                 </div>
 
